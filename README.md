@@ -18,3 +18,15 @@ I created this project to practise core programming concepts like classes, contr
 - **Development Tools:** Visual Studio / VS Code & Git  
 
 ## 📂 Project Structure  
+
+## 📥 Getting Started (Run Locally)  
+To run the game on your local machine:
+
+```bash
+# Clone the repo
+git clone https://github.com/YourUsername/Text-Adventure.git  
+cd Text-Adventure  
+
+# Build & run (on Windows with .NET)
+dotnet build  
+dotnet run  
